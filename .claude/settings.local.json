@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(shopt -s dotglob)",
+      "Bash(mv petapp-tmp/* .)",
+      "Bash(npx tsc *)",
+      "Bash(npx vite *)",
+      "Bash(git add *)",
+      "PowerShell(gh --version)"
+    ]
+  }
+}

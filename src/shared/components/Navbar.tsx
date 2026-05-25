@@ -17,7 +17,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           <a href="#hero" className="flex items-center gap-2 text-2xl font-bold text-primary-600">
             <span className="text-3xl" aria-hidden="true">🐾</span>
-            <span>PetApp</span>
+            <span>PetsGo</span>
           </a>
 
           <ul className="hidden md:flex items-center gap-8">
